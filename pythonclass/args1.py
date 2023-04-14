@@ -9,5 +9,5 @@ def concatenate_args(*string):
 def concatenate_kwargs(**kwargs):
     answer = ""
     for key, value in kwargs.items():
-        answer += value
-    return answer
+        answer1 += value
+    return answer1
